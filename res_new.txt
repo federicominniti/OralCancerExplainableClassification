@@ -1,0 +1,311 @@
+VIT:
+mean compound distance NOT projected 0.5063332600047666
+mean spearman footrule distance NOT projected 0.594469987228608
+mean kendall tau distance NOT projected 0.43980824579735645
+mean jaccard distance NOT projected 0.5068965517241378
+mean jaccard distance @ 5 NOT projected 0.7448275862068964
+mean jaccard distance @ 10 NOT projected 0.5919540229885057
+knn classification accuracy NOT projected 0.6551724137931034
+
+
+2l
+mean compound distance projected 0.3061751819465069
+mean spearman footrule distance projected 0.31021711366538957
+mean kendall tau distance projected 0.21840730352527088
+mean jaccard distance projected 0.4191570881226052
+mean jaccard distance @ 5 projected 0.4919540229885059
+mean jaccard distance @ 10 projected 0.432183908045977
+knn classification accuracy projected 0.8505747126436781
+
+3l
+mean compound distance projected 0.3412446974280005
+mean spearman footrule distance projected 0.38113665389527457
+mean kendall tau distance projected 0.269845460045097
+mean jaccard distance projected 0.39655172413793105
+mean jaccard distance @ 5 projected 0.5931034482758618
+mean jaccard distance @ 10 projected 0.45057471264367854
+knn classification accuracy projected 0.8505747126436781
+
+
+5l
+mean compound distance projected 0.3192458156886469
+mean spearman footrule distance projected 0.34035759897828866
+mean kendall tau distance projected 0.23738656987295825
+mean jaccard distance projected 0.40727969348659
+mean jaccard distance @ 5 projected 0.5448275862068965
+mean jaccard distance @ 10 projected 0.4344827586206897
+knn classification accuracy projected 0.8735632183908046
+
+
+10l
+mean compound distance projected 0.3633191442556233
+mean spearman footrule distance projected 0.40356321839080467
+mean kendall tau distance projected 0.29427487213331127
+mean jaccard distance projected 0.4151340996168581
+mean jaccard distance @ 5 projected 0.6666666666666663
+mean jaccard distance @ 10 projected 0.4643678160919543
+knn classification accuracy projected 0.8505747126436781
+
+
+--------------------------------------------------------------------------------------------------------------
+
+convnext
+mean compound distance NOT projected 0.4532280518432969
+mean spearman footrule distance NOT projected 0.5423116219667947
+mean kendall tau distance NOT projected 0.39673871198372096
+mean jaccard distance NOT projected 0.4394636015325671
+mean jaccard distance @ 5 NOT projected 0.6873563218390801
+mean jaccard distance @ 10 NOT projected 0.5356321839080455
+knn classification accuracy NOT projected 0.8505747126436781
+
+2l
+mean compound distance projected 0.32138429668738194
+mean spearman footrule distance projected 0.3449936143039592
+mean kendall tau distance projected 0.2416982896111753
+mean jaccard distance projected 0.4040229885057472
+mean jaccard distance @ 5 projected 0.5218390804597701
+mean jaccard distance @ 10 projected 0.4229885057471265
+knn classification accuracy projected 0.896551724137931
+
+3l
+mean compound distance projected 0.32990978753047717
+mean spearman footrule distance projected 0.3578671775223498
+mean kendall tau distance projected 0.2557993730407524
+mean jaccard distance projected 0.40076628352490407
+mean jaccard distance @ 5 projected 0.5885057471264368
+mean jaccard distance @ 10 projected 0.42643678160919557
+knn classification accuracy projected 0.9080459770114943
+
+5l
+mean compound distance projected 0.36301173257071634
+mean spearman footrule distance projected 0.4057215836526182
+mean kendall tau distance projected 0.2927496379402004
+mean jaccard distance projected 0.41398467432950165
+mean jaccard distance @ 5 projected 0.6344827586206896
+mean jaccard distance @ 10 projected 0.45517241379310336
+knn classification accuracy projected 0.8620689655172413
+
+
+
+10l
+mean compound distance projected 0.35904971676840997
+mean spearman footrule distance projected 0.40340996168582355
+mean kendall tau distance projected 0.28931969421987563
+mean jaccard distance projected 0.4076628352490419
+mean jaccard distance @ 5 projected 0.5954022988505747
+mean jaccard distance @ 10 projected 0.4643678160919538
+knn classification accuracy projected 0.8620689655172413
+
+
+--------------------------------------------------------------------------------------------------------------
+
+swin
+mean compound distance NOT projected 0.39238011695906433
+mean spearman footrule distance NOT projected 0.46560664112388256
+mean kendall tau distance NOT projected 0.34180278281911675
+mean jaccard distance NOT projected 0.3865900383141764
+mean jaccard distance @ 5 NOT projected 0.6137931034482759
+mean jaccard distance @ 10 NOT projected 0.4701149425287355
+knn classification accuracy NOT projected 0.8850574712643678
+
+
+2l
+mean compound distance projected 0.3235027773194742
+mean spearman footrule distance projected 0.3490038314176244
+mean kendall tau distance projected 0.2426937249078811
+mean jaccard distance projected 0.40574712643678157
+mean jaccard distance @ 5 projected 0.5379310344827587
+mean jaccard distance @ 10 projected 0.43103448275862094
+knn classification accuracy projected 0.9080459770114943
+
+
+3l
+mean compound distance projected 0.33373502722323034
+mean spearman footrule distance projected 0.36478927203065126
+mean kendall tau distance projected 0.2534180278281913
+mean jaccard distance projected 0.40977011494252874
+mean jaccard distance @ 5 projected 0.5747126436781611
+mean jaccard distance @ 10 projected 0.4310344827586208
+knn classification accuracy projected 0.9310344827586207
+
+5l
+mean compound distance projected 0.32720324845551696
+mean spearman footrule distance projected 0.35478927203065125
+mean kendall tau distance projected 0.2527782360813215
+mean jaccard distance projected 0.39885057471264374
+mean jaccard distance @ 5 projected 0.6022988505747127
+mean jaccard distance @ 10 projected 0.4252873563218392
+knn classification accuracy projected 0.896551724137931
+
+
+--------------------------------------------------------------------------------------------------------------
+
+autoenc512
+mean compound distance NOT projected 0.5454691011750903
+mean spearman footrule distance NOT projected 0.648991060025543
+mean kendall tau distance NOT projected 0.47836623952776397
+mean jaccard distance NOT projected 0.5314176245210731
+mean jaccard distance @ 5 NOT projected 0.7908045977011491
+mean jaccard distance @ 10 NOT projected 0.6321839080459772
+knn classification accuracy NOT projected 0.4942528735632184
+
+
+2l
+mean compound distance projected 0.37672685108801257
+mean spearman footrule distance projected 0.4063473818646231
+mean kendall tau distance projected 0.2910795798273113
+mean jaccard distance projected 0.46130268199233715
+mean jaccard distance @ 5 projected 0.5678160919540234
+mean jaccard distance @ 10 projected 0.4839080459770114
+knn classification accuracy projected 0.735632183908046
+
+
+3l
+mean compound distance projected 0.3721084712827
+mean spearman footrule distance projected 0.40344827586206905
+mean kendall tau distance projected 0.28903554602284187
+mean jaccard distance projected 0.45153256704980843
+mean jaccard distance @ 5 projected 0.5678160919540229
+mean jaccard distance @ 10 projected 0.4747126436781609
+knn classification accuracy projected 0.735632183908046
+
+
+5l
+mean compound distance projected 0.3805114484225191
+mean spearman footrule distance projected 0.3986079182630906
+mean kendall tau distance projected 0.28967900419806053
+mean jaccard distance projected 0.48352490421455924
+mean jaccard distance @ 5 projected 0.6275862068965516
+mean jaccard distance @ 10 projected 0.5057471264367814
+knn classification accuracy projected 0.735632183908046
+
+
+--------------------------------------------------------------------------------------------------------------
+
+autoenc256
+mean compound distance NOT projected 0.5572252286934685
+mean spearman footrule distance NOT projected 0.6617624521072799
+mean kendall tau distance NOT projected 0.49199985334286594
+mean jaccard distance NOT projected 0.5396551724137932
+mean jaccard distance @ 5 NOT projected 0.80919540229885
+mean jaccard distance @ 10 NOT projected 0.6425287356321843
+knn classification accuracy NOT projected 0.5172413793103449
+
+
+2l
+mean compound distance projected 0.439442317916002
+mean spearman footrule distance projected 0.4838569604086847
+mean kendall tau distance projected 0.35597169517314703
+mean jaccard distance projected 0.5063218390804597
+mean jaccard distance @ 5 projected 0.6597701149425289
+mean jaccard distance @ 10 projected 0.5517241379310344
+knn classification accuracy projected 0.5172413793103449
+
+
+3l
+mean compound distance projected 0.4451538799978002
+mean spearman footrule distance projected 0.4885823754789273
+mean kendall tau distance projected 0.36297090689105216
+mean jaccard distance projected 0.5113026819923373
+mean jaccard distance @ 5 projected 0.6827586206896552
+mean jaccard distance @ 10 projected 0.5448275862068963
+knn classification accuracy projected 0.5517241379310345
+
+
+5l
+mean compound distance projected 0.4885005224660398
+mean spearman footrule distance projected 0.5469348659003831
+mean kendall tau distance projected 0.4027168234064785
+mean jaccard distance projected 0.5444444444444444
+mean jaccard distance @ 5 projected 0.7816091954022989
+mean jaccard distance @ 10 projected 0.6057471264367815
+knn classification accuracy projected 0.5057471264367817
+
+
+--------------------------------------------------------------------------------------------------------------
+
+vae64
+mean compound distance NOT projected 0.5727982914443892
+mean spearman footrule distance NOT projected 0.6587611749680716
+mean kendall tau distance NOT projected 0.5047351922125063
+mean jaccard distance NOT projected 0.5775862068965516
+mean jaccard distance @ 5 NOT projected 0.8229885057471257
+mean jaccard distance @ 10 NOT projected 0.691954022988506
+knn classification accuracy NOT projected 0.4482758620689655
+
+
+2l
+mean compound distance projected 0.5191272983922711
+mean spearman footrule distance projected 0.5797573435504471
+mean kendall tau distance projected 0.4239197785477277
+mean jaccard distance projected 0.5854406130268196
+mean jaccard distance @ 5 projected 0.7839080459770116
+mean jaccard distance @ 10 projected 0.6643678160919539
+knn classification accuracy projected 0.22988505747126436
+
+
+3l
+mean compound distance projected 0.5383903829584412
+mean spearman footrule distance projected 0.6178544061302685
+mean kendall tau distance projected 0.45600469302828656
+mean jaccard distance projected 0.5687739463601531
+mean jaccard distance @ 5 projected 0.7839080459770112
+mean jaccard distance @ 10 projected 0.6586206896551722
+knn classification accuracy projected 0.25287356321839083
+
+
+5l
+mean compound distance projected 0.5597465764725292
+mean spearman footrule distance projected 0.6300638569604089
+mean kendall tau distance projected 0.47193349098975235
+mean jaccard distance projected 0.6065134099616857
+mean jaccard distance @ 5 projected 0.8114942528735628
+mean jaccard distance @ 10 projected 0.6827586206896552
+knn classification accuracy projected 0.3448275862068966
+
+
+--------------------------------------------------------------------------------------------------------------
+
+vae128
+mean compound distance NOT projected 0.5624722543034704
+mean spearman footrule distance NOT projected 0.6601660280970624
+mean kendall tau distance NOT projected 0.49266531008817777
+mean jaccard distance NOT projected 0.5578544061302684
+mean jaccard distance @ 5 NOT projected 0.848275862068965
+mean jaccard distance @ 10 NOT projected 0.6850574712643682
+knn classification accuracy NOT projected 0.6091954022988506
+
+
+2l
+mean compound distance projected 0.4480223835450696
+mean spearman footrule distance projected 0.4813154533844192
+mean kendall tau distance projected 0.3541843113530954
+mean jaccard distance projected 0.5398467432950189
+mean jaccard distance @ 5 projected 0.7264367816091956
+mean jaccard distance @ 10 projected 0.6
+knn classification accuracy projected 0.3563218390804598
+
+
+3l
+mean compound distance projected 0.47803530770499925
+mean spearman footrule distance projected 0.5271008939974459
+mean kendall tau distance projected 0.38079708152303443
+mean jaccard distance projected 0.5586206896551722
+mean jaccard distance @ 5 projected 0.7563218390804599
+mean jaccard distance @ 10 projected 0.6275862068965515
+knn classification accuracy projected 0.3218390804597701
+
+
+5l
+mean compound distance projected 0.5030301563731692
+mean spearman footrule distance projected 0.5755810983397189
+mean kendall tau distance projected 0.42416542924709894
+mean jaccard distance projected 0.5356321839080461
+mean jaccard distance @ 5 projected 0.7494252873563219
+mean jaccard distance @ 10 projected 0.5988505747126437
+knn classification accuracy projected 0.5747126436781609
+
+
+
+
+
