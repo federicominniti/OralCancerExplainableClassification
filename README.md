@@ -2,9 +2,9 @@
 This project utilizes pre-trained classification models to tackle the classification of oral cancers into categories such as traumatic, apthous, and neoplastic. Features are extracted from these classification models as well as from autoencoders. Subsequently, these features are projected onto a multi-dimensional space using a projection network, aiming to construct a new space where similar images are positioned closely together. By leveraging Case-Based Reasoning (CBR) and informed deep learning, along with an additional similarity dataset, the project aims to generate explanations. These explanations are then evaluated using metrics such as the Jaccard distance, Kendall Tau distance, and Spearman Footrule distance.
 
 ## Goals are:
-- To perform oral cancers classification
-- To extract an project features in multi-dimensional spaces
-- To model multi-dimensional spaces for explain performed classifications 
+- To perform oral cancers classification;
+- To extract an project features in multi-dimensional spaces;
+- To model multi-dimensional spaces for explain performed classifications.
 
 ## Preview
 <p align="center">
